@@ -1,5 +1,6 @@
 # helix_splunk_lab
-Built a soc lab with splunk to collect Windows event logs and detect bruteforce attempts
+Развернута лаборатория SOC, оснащенная Splunk, для агрегации логов Windows и выявления попыток брутфорса
+
 Лаборатория SOC: Splunk и логи Windows
 
 Данный проект демонстрирует создание базовой лаборатории SOC с использованием Splunk и сбор логов (журналов событий) Windows для мониторинга безопасности
