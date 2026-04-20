@@ -14,7 +14,7 @@ VirtualBox
 Настройка лаборатории:
 Splunk Enterprise установлен на хост-машину
 Universal Forwarder установлен на виртуальную машину Windows
-# Состояние подключения Universal Forwarder
+#### Состояние подключения Universal Forwarder
 ![Forwarder](screenshots/UniversalForwarderSetting.png)
 
 Настроена пересылка журналов в Splunk (порт 9997)
